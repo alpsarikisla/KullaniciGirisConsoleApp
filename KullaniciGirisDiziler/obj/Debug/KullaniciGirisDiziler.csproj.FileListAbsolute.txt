@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\bin\Debug\KullaniciGirisDiziler.exe.config
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\bin\Debug\KullaniciGirisDiziler.exe
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\bin\Debug\KullaniciGirisDiziler.pdb
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\obj\Debug\KullaniciGirisDiziler.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\obj\Debug\KullaniciGirisDiziler.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\obj\Debug\KullaniciGirisDiziler.exe
+C:\Users\Alp\source\repos\KullaniciGirisDiziler\KullaniciGirisDiziler\obj\Debug\KullaniciGirisDiziler.pdb
